@@ -40,7 +40,7 @@ Para rodar o projeto basta execultar o jupyter notebook no diretorio do projeto.
 # 5.0 Resultados
 
 Como resultado do treino e da predição temos que o treino realizou todas as etapas a acuracia acima de 80%, porém a predição falhou na imagem escolhida, indicando que a foto de um de covid tem peneumonia
-O notebook da execução pode ser encontrado [aqui](ViraLataCarameloNotebook.ipynb).
+O notebook da execução pode ser encontrado [aqui](https://github.com/deeplearningunb/image-sorter-covid/blob/main/classificador.ipynb).
 
 ## Desenvolvedores do projeto
 
